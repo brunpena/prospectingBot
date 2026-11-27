@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Empresa Exemplo A",
+    "telefone": "41999990000",
+    "cidade": "Curitiba",
+    "segmento": "clínica odontológica"
+  },
+  {
+    "nome": "Empresa Exemplo B",
+    "telefone": "(41) 3333-0000",
+    "cidade": "Curitiba",
+    "segmento": "clínica odontológica"
+  }
+]

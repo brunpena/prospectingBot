@@ -1,0 +1,7 @@
+{Olá|Oi|Boa tarde}, tudo bem? Falo com a equipe da *{{nome}}*?
+
+Meu nome é Bruno, sou da MP Develop. {Ajudamos|Apoiamos} pequenas e médias empresas a ganhar organização na operação e clareza financeira com sistemas sob medida, automações e landing pages.
+
+{Faria sentido|Topa} uma conversa rápida de 15 minutos para eu entender como funciona a rotina de vocês hoje?
+
+_Se preferir não receber mensagens, é só responder SAIR._
